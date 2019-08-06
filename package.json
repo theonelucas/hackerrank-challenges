@@ -1,0 +1,9 @@
+{
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^3.4.0"
+  },
+  "scripts": {
+    "test": "yarn jasmine"
+  }
+}
