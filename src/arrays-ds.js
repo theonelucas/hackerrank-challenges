@@ -1,3 +1,8 @@
+/**
+ * Link: https://www.hackerrank.com/challenges/arrays-ds
+ *
+*/
+
 exports.reverseArray = function(a) {
   let result = [];
 

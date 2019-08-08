@@ -1,6 +1,6 @@
 const { hourglassSum } = require('../src/2d-array');
 
-describe("hourglassSum", function() {
+describe("", function() {
   it("", function() {
     expect(hourglassSum([
       [1, 1, 1, 0, 0, 0],

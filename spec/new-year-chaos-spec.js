@@ -1,7 +1,7 @@
 
 const { minimumBribes } = require('../src/new-year-chaos');
 
-describe("minimumBribes", function() {
+describe("", function() {
   it("", function() {
     expect( minimumBribes([2, 1, 5, 3, 4]) ).toBe(3);
     expect( minimumBribes([2, 5, 1, 3, 4]) ).toBe("Too chaotic");

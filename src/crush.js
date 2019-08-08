@@ -1,10 +1,13 @@
 /**
- * Optimal solution
+ * Link: https://www.hackerrank.com/challenges/crush
  *
  * Reference:
  *  - https://www.youtube.com/watch?v=hDhf04AJIRs
  *  - https://www.youtube.com/watch?v=pVS3yhlzrlQ
- */
+ *
+*/
+
+// Optimal solution
 exports.crush = function(n, queries) {
   const array = new Array(n+1).fill(0);
   let max = -Infinity;
@@ -24,11 +27,8 @@ exports.crush = function(n, queries) {
   return max;
 };
 
-/**
- * Brute force version
- *
-*/
-exports.crush2 = function(n, queries) {
+// Brute force
+exports.crushBruteForce = function(n, queries) {
   let array = new Array(n).fill(0, 0, n);
   let max = -Infinity;
 

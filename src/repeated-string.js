@@ -1,3 +1,8 @@
+/**
+ * Link: https://www.hackerrank.com/challenges/repeated-string
+ *
+*/
+
 exports.repeatedString = function(s, n) {
   const aCount = (str) => str.split('a').length - 1;
   const times = parseInt(n / s.length);

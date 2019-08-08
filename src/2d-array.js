@@ -1,3 +1,8 @@
+/**
+ * Link: https://www.hackerrank.com/challenges/2d-array
+ *
+*/
+
 exports.hourglassSum = function(arr) {
   let sums = [];
 

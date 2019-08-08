@@ -1,3 +1,8 @@
+/**
+ * Link: https://www.hackerrank.com/challenges/s10-basic-statistics
+ *
+*/
+
 exports.processData = function(length, array) {
   array.sort((a, b) => a - b);
 

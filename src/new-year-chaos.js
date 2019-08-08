@@ -1,3 +1,8 @@
+/**
+ * Link: https://www.hackerrank.com/challenges/new-year-chaos
+ *
+*/
+
 exports.minimumBribes = function(q) {
   let bribes = 0;
 

@@ -1,3 +1,8 @@
+/**
+ * Link: https://www.hackerrank.com/challenges/simple-array-sum
+ *
+*/
+
 exports.simpleArraySum = function(ar) {
   let result = 0;
 

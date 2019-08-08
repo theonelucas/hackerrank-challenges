@@ -1,3 +1,8 @@
+/**
+ * Link: https://www.hackerrank.com/challenges/ctci-array-left-rotation
+ *
+*/
+
 exports.rotLeft = function(a, d) {
   const newArray = [];
 
