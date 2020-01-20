@@ -6,8 +6,5 @@
 */
 
 exports.dynamicArray = function(arr) {
-
-
-
   return 0;
 };
